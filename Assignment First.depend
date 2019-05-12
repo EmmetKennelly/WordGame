@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1552405189 source:c:\users\emmet\onedrive\documents\c\assignment first\word_game.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+
+1552405301 source:c:\users\emmet\onedrive\documents\c\assignment first\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"word_game.h"
+
+1552152853 c:\users\emmet\onedrive\documents\c\assignment first\word_game.h
+
